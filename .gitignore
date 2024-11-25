@@ -6,6 +6,8 @@
 # dotenv files
 .env
 
+.db-data/
+
 # User-specific files
 *.rsuser
 *.suo
